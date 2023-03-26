@@ -48,10 +48,6 @@ function decrementAlhamdulillah() {
   if (lcount > 0) {
     lcount--;
     setCountAlhamdulillah();
-<<<<<<< HEAD
-=======
-    document.getElementById("text-sub").innerText = "";
->>>>>>> 04e7ab6b155e777d9b661f1fbaae20ac8165e41c
   } else {
     alert("Please press the '+' button");
   }
@@ -81,10 +77,6 @@ function decrementAllahuakbar() {
   if (acount > 0) {
     acount--;
     setCountAllahuakbar();
-<<<<<<< HEAD
-=======
-    document.getElementById("text-sub").innerText = "";
->>>>>>> 04e7ab6b155e777d9b661f1fbaae20ac8165e41c
   } else {
     alert("Please press the '+' button");
   }
